@@ -1,0 +1,8 @@
+dag/
+geth/chaindata/
+geth/ethash/
+geth/lighchain/
+geth/nodes/
+geth/LOCK
+geth/nodekey
+geth/transactions.rlp

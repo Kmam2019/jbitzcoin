@@ -1,0 +1,1 @@
+geth  --datadir .   --ethash.dagdir   c:\opt\jbitzcoin\dag    --rpc  --rpcapi "eth,web3,admin,miner,personal"   --rpcaddr 0.0.0.0
