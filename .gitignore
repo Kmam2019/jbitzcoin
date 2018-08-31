@@ -5,4 +5,6 @@ geth/lighchain/
 geth/nodes/
 geth/LOCK
 geth/nodekey
+geth/lightchaindata
+keystore/
 geth/transactions.rlp
